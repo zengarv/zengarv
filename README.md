@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **zengarv@gmail.com**
 
+Hi! I am an electrical engineering student at IIT Indore with a strong passion for artificial intelligence and machine learning, exploring their transformative potential to solve real-world challenges. Physics captivates me with its elegant explanations of natural phenomena, sharpening my analytical thinking and problem-solving skills. I also have experience in frontend development using React and Tailwind CSS to design responsive and modern user interfaces, combining creativity with technology to bring innovative ideas to life.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garv-jain-4b3a77192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv-jain-4b3a77192" height="30" width="40" /></a>
