@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garv Jain</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-- 📫 How to reach me **zengarv@gmail.com**
+- 📫 How to reach me **garv.jain835@gmail.com**
 
 Hi! I am an electrical engineering student at IIT Indore with a strong passion for artificial intelligence and machine learning, exploring their transformative potential to solve real-world challenges. Physics captivates me with its elegant explanations of natural phenomena, sharpening my analytical thinking and problem-solving skills. I also have experience in frontend development using React and Tailwind CSS to design responsive and modern user interfaces, combining creativity with technology to bring innovative ideas to life.
 
