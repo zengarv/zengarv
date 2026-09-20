@@ -23,15 +23,9 @@ I'm an Electrical Engineering student at IIT Indore, currently interning as a **
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://streak-stats.demolab.com/?user=zengarv&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=717171&border=222222" alt="GitHub Streak" /></td>
-<td><img src="https://leetcard.jacoblin.cool/zengarv?font=Fira_Code&colors=000000,222222,ffffff,c9c9c9,ffffff,eeeeee,c9c9c9,999999&border=1&radius=4" alt="LeetCode Stats" /></td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=zengarv&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=717171&border=222222" alt="GitHub Streak" />
 
-<img src="https://leetcard.jacoblin.cool/zengarv?ext=heatmap&font=Fira_Code&colors=000000,222222,ffffff,c9c9c9,ffffff,eeeeee,c9c9c9,999999&border=1&radius=4" alt="LeetCode Submission Heatmap" />
-
+<img src="https://leetcard.jacoblin.cool/zengarv?font=Fira_Code&colors=000000,222222,ffffff,c9c9c9,ffffff,eeeeee,c9c9c9,999999&border=1&radius=4" alt="LeetCode Stats" />
 
 </div>
 
