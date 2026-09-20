@@ -23,12 +23,12 @@ I'm an Electrical Engineering student at IIT Indore, currently interning as a **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zengarv&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=222222&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zengarv&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9c9c9&border_color=222222&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-inky-nine-52.vercel.app/api?username=zengarv&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=222222&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-inky-nine-52.vercel.app/api/top-langs/?username=zengarv&layout=compact&bg_color=000000&title_color=ffffff&text_color=c9c9c9&border_color=222222&hide_border=false" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zengarv&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=717171&border=222222" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=zengarv&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=717171&border=222222" alt="GitHub Streak" />
 
-<img src="https://leetcode-stats-card.vercel.app/?username=zengarv&theme=dark&show_percentile=true" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/zengarv?theme=dark&font=baloo" alt="LeetCode Stats" />
 
 </div>
 
